@@ -5296,3 +5296,12 @@
     - open-source
     - research
     - community
+
+- local: openai-privacy-filter-web-apps
+  date: April 27, 2026
+  tags:
+    - openai
+    - privacy-filter
+    - web-apps
+    - gradio
+    - pii
